@@ -1,2 +1,2 @@
-let message: string = 'hello, tsnode'
+let message: string = 'hellsssssssfsdoooooo, tsnode'
 console.log({message})
