@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tsd": "npx ts-node-dev --respawn"
+    "dev": "npx ts-node-dev --respawn"
   },
   "repository": {
     "type": "git",
@@ -19,10 +19,9 @@
   },
   "homepage": "https://github.com/nisssy/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.5.4",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.5"
   },
-  "dependencies": {
-    "ts-node": "^8.6.2"
-  }
+  "dependencies": {}
 }
